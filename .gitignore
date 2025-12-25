@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+
+# PyInstaller build folders and EXEs
+build/
+dist/
+*.exe
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# User-generated data files (if your app saves CSVs or local configs)
+*.csv
+*.db
+*.json
+
+# Ignore any backup or temp files
+*~
+*.bak
